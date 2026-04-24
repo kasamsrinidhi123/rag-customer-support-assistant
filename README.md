@@ -42,6 +42,8 @@ This project was developed as part of an internship to demonstrate practical und
 ---
 
 ## 📂 Project Structure
+
+```
 rag-customer-support-assistant/
 │
 ├── app.py
@@ -51,12 +53,13 @@ rag-customer-support-assistant/
 ├── README.md
 │
 ├── data/
-│ └── knowledge.txt / knowledge.pdf
+│   └── knowledge.txt / knowledge.pdf
 │
 └── docs/
-├── HLD.pdf
-├── LLD.pdf
-└── Technical_Documentation.pdf
+    ├── HLD.pdf
+    ├── LLD.pdf
+    └── Technical_Documentation.pdf
+```
 
 ---
 
