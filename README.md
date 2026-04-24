@@ -18,6 +18,16 @@ This project was developed as part of an internship to demonstrate practical und
 - 🔄 Modular and scalable pipeline  
 
 ---
+---
+
+## 🧠 Key Concepts Applied
+- Retrieval-Augmented Generation (RAG)  
+- Document chunking and embedding  
+- Vector similarity search  
+- Context-based response generation  
+- Modular pipeline architecture  
+
+---
 
 ## 🧠 How It Works
 
@@ -56,12 +66,10 @@ rag-customer-support-assistant/
 │   └── knowledge.txt / knowledge.pdf
 │
 └── docs/
-    ├── HLD.pdf
-    ├── LLD.pdf
-    └── Technical_Documentation.pdf
+    ├── RAG_Customer_Support_HLD.pdf
+    ├── RAG_Customer_Support_LLD.pdf
+    └── RAG_System_Technical_Documentation.pdf
 ```
-
----
 
 ## ▶️ How to Run
 
